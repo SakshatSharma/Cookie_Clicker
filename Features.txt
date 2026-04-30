@@ -1,0 +1,1 @@
+I added in sound, so when the game starts up there is sound playing, To win my game you must get 20000 cookies and then an upgrade appears called "Max" which lets you win the game. I have also added achivements for getting 100 and 1000 cookies, i also have one for 10000 cookies. 
